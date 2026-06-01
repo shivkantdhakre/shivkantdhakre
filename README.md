@@ -57,10 +57,10 @@ I am a forward-thinking **Computer Science undergraduate** at **Madan Mohan Mala
   <table border="0" cellpadding="5" cellspacing="5">
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=shivkantdhakre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" alt="Shiv Kant's Stats" width="380" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivkantdhakre&theme=tokyonight&v=2" alt="Shiv Kant's Stats" width="380" />
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkantdhakre&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" width="350" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivkantdhakre&theme=tokyonight&v=2" alt="Top Languages" width="350" />
       </td>
     </tr>
     <tr>
