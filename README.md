@@ -1,18 +1,20 @@
-<div align="center">
+<p align="center">
   <!-- Typing Effect Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=550&height=50&lines=Hi,+I'm+Shiv+Kant+Dhakre+👋;Full-Stack+Web+Developer;AI+/+ML+Engineer;Problem+Solver" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=550&height=50&lines=Hi%2C%20I%27m%20Shiv%20Kant%20Dhakre%20%F0%9F%91%8B;Full-Stack%20Web%20Developer;AI%20%2F%20ML%20Engineer;Problem%20Solver&v=2" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
   <!-- Social Badges and Views -->
-  <p>
-    <a href="https://linkedin.com/in/shivkantdhakre" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:dhakreshivkant@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=shivkantdhakre&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  </p>
-</div>
+  <a href="https://linkedin.com/in/shivkantdhakre" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dhakreshivkant@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=shivkantdhakre&color=6366f1&style=for-the-badge&label=Profile+Views&v=2" alt="Profile Views" />
+</p>
 
 ---
 
@@ -55,15 +57,15 @@ I am a forward-thinking **Computer Science undergraduate** at **Madan Mohan Mala
   <table border="0" cellpadding="5" cellspacing="5">
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=shivkantdhakre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shiv Kant's Stats" width="380" />
+        <img src="https://github-readme-stats.vercel.app/api?username=shivkantdhakre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" alt="Shiv Kant's Stats" width="380" />
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkantdhakre&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkantdhakre&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" width="350" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivkantdhakre&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="740" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivkantdhakre&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" width="740" />
       </td>
     </tr>
   </table>
